@@ -1,4 +1,4 @@
-package frc.poroslib.constantConfigObjects;
+package frc.teamlib.constantConfigObjects;
 
 import com.ctre.phoenix6.configs.SoftwareLimitSwitchConfigs;
 import com.ctre.phoenix6.hardware.TalonFX;
