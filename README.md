@@ -95,7 +95,7 @@ The following topics are covered in this repository:
 3. **Subsystems and Commands**
 4. **Control Theory**
 5. **Group Commands and Autonomous Programming**
-6. **Computer Vision**
+6. **Computer Vision - Machine Learning Object Detection**
 
 Each topic is designed to build upon the previous one, ensuring a gradual and cohesive learning process that helps in building a strong foundation in FRC programming.
 
